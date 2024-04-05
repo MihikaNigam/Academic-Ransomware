@@ -1,6 +1,6 @@
 # Academic-Ransomware
 
-In this we utilised msfconsole to study and analyse how bad actors think and make a ransomware and inject our processes.
+In this we utilised msfconsole to study and analyse how bad actors think and make a ransomware to inject our os-processes.
 
 We kept checking how detectable each malware was by passing it through virustotal. Checkout the "c# malware" folder to look at "virustotal_results.png" for an idea of how the results looked.
 
